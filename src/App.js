@@ -33,7 +33,7 @@ class App extends React.Component {
       <div className="container-fluid p-4">
         <h1 className="text-center display-6 q-header">
           Markdown previewer
-          <small className="text-muted"> by <a href="https://github.com/qvistsson" target="_blank" rel="noopener noreferrer">Qvistsson</a></small>
+          <small className="text-muted"> by <a href="https://github.com/qvistdev09" target="_blank" rel="noopener noreferrer">qvistdev09</a></small>
           </h1>
         <hr />
         <div className="row">
